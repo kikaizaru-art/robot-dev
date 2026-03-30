@@ -1,0 +1,5 @@
+.pio
+
+# Credentials - do not commit
+src/wifi_config.h
+src/gemini_config.h
